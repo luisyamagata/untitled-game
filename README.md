@@ -5,6 +5,8 @@ A repostiory for a game for the itch.io - Accountability Jam: October 2025
 
 # game genre
 
+# language / engine to be used
+
 # functional requisites
 
 # non-functional requisites
