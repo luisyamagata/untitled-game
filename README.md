@@ -24,7 +24,7 @@ My game will literally end where Fallout: New Vegas begins. I have to decide wha
 
 (cancel that) The main character lives in a cyberpunk Rio de Janeiro, on 2125. They need to make some money in a short amount of time. They decide to make deliveries using a bike. The tech is fallout-ish
 
-Additional Info about the main character. (source: [fallout.wiki](https://fallout.wiki/wiki/Courier)):
+# mAdditional Info about the main character. (source: [fallout.wiki](https://fallout.wiki/wiki/Courier)):
 
 
 
