@@ -98,3 +98,47 @@ Behind the Scenes
 Gallery
 
 
+--------------------------/--------------------------
+
+## Characters with the Highest repair skill in the game
+
+ Fallout New Vegas-
+
+Base game, Raul Tejada/Paladin Sato/Major Knight with 100 repair.
+
+DLC, Joshua Graham/Commissary terminal/Sink Central Intelligence Unit with 100 repair. 
+
+Opções:
+
+O/A courier encontra uma bicicleta nova em folha, mas a única. portanto não é possível consertá-la, ela eventualmente quebra. Ou alguém com REPAIR 100 conserta uma bicicleta deteriorada por uma pequena fortuna/ em troca de um favor. Talvez uma promocional de alguma empresa pré guerra que ficou armazenada seguramente por algum motivo X.
+
+O/A courier encontra um gênio (canônico ou não) com pelo menos 8 de INT que reinventa a bicicleta.
+
+Encontrada em uma vault temática de ciclistas. Todos morreram. Sobrou 2 apenas. Ele conserta elas uma vez e depois fica sem.
+
+
+links wiki candidatos (humanoides)
+
+https://fallout.fandom.com/wiki/Joshua_Graham (supondo que ele não tivesse mais na Legião, ou talvez ele consertou/intentou e o courier rouba a bike)
+
+mais realista:
+
+https://fallout.fandom.com/wiki/Old_Lady_Gibson
+
+
+(paladin Sato - problema, eu não quero que o Courier esteja próximo de nenhuma facção, ele é da BoS
+
+https://fallout.fandom.com/wiki/Sato_(Fallout:_New_Vegas)
+
+Raul Tejada - faria senrtido. ele conserta coisas.
+
+https://fallout.fandom.com/wiki/Raul_Tejada#Background
+
+
+https://fallout.fandom.com/wiki/Knight_(Mojave_Outpost)
+
+
+Fallout new vegas starts on 2281
+
+
+
