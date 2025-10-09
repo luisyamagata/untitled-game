@@ -12,6 +12,12 @@ Godot or Python
 
 # functional requisites
 
+the player gets deliveries to do. And does them. Gets rewarded in money and experience. They're able to level up and buy better equipment that gives stats and/or skill boosts
+
+There will be something similar to the SPECIAL system, maybe with less attributes. And skills also. The character can learn special moves on the bike by attaining certain benchmarks (e.g.: Level 5, or 7 Agility or 50 Bike-Riding). 
+
+There will be mini side-quests to keep things interesting and give the game a semblance of a plot. They'll be optional. If you wanna do just deliveries forever you can (is this hard?, maybe an optional endless mode after the JAM game is done)
+
 # non-functional requisites
 
 # lore
