@@ -34,31 +34,19 @@ My game will literally end where Fallout: New Vegas begins. I have to decide wha
 
 
 
-Nickname
+Nickname: Courier Six
 
-Courier Six
+Occupation: Mojave Express
 
-Occupation
+Role:     Player character
+          Package courier
 
-Mojave Express
+Gender: Player's choice
 
-Role
+Played By: Laura Bailey (female)
+           Yuri Lowenthal (male)
 
-Player character
-Package courier
-
-Gender
-
-Player's choice
-
-Played By
-
-Laura Bailey (female)
-Yuri Lowenthal (male)
-
-Appears
-
-Fallout: New Vegas
+Appears: Fallout: New Vegas
 
 
 Background
